@@ -31,3 +31,5 @@ The part list is:
 
 -2 2pin jumper
 
+
+![imagen](https://user-images.githubusercontent.com/5169740/191841045-fd6e1e0a-721f-4c07-bcf0-691c5f9dedc5.png)
