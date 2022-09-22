@@ -1,5 +1,5 @@
 # tasmota-motor-pcb
-PCB board for controll a nema17 with tasmota
+PCB board for control a nema17 with tasmota
 
 
 Those are the gerber files for make a PCB to assemble all the components needed for control a nema 17 operating roller blinds, stores and more.
