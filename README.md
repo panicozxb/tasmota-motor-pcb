@@ -8,9 +8,9 @@ The info about how to config the tasmota is in here https://github.com/arendst/T
 
 I have uploaded two PCB's. One is a little bit bigger than the other. The big one is fully tested, the little one is the big one but with some components stacked, but I have not produced this one yet.
 
-There are two jumpers in order to use one of those drivers: A4988, DRV8825 and TMC2208. How to use those jumpers deppending of the driver selected Is written in the back of the PCB. "O" means open and "C" menas closed.
+There are two jumpers in order to use one of those drivers: A4988, DRV8825 and TMC2208. How to use those jumpers deppending of the driver selected Is written in the back of the PCB. "O" means open and "C" means closed.
 
-I hame made also a little box to attach the pcb on the back of the nema. It is still a work in progress and It should be updated soon.
+I hame made also a little box to attach the pcb on the back of the nema. It is still a work in progress and It should be updated soon. It's uploaded in https://www.thingiverse.com/thing:5526654
 
 The part list is:
 
